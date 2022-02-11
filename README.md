@@ -2,10 +2,10 @@
 dataFaker
 
 ## Table of Contents
-- [Description & General Info]
-- [Languages & Technologies]
-- [Setup & Use]
-- [Licensing Information]
+- [Description & General Info](https://github.com/briennekordis/dataFaker#description--general-info)
+- [Languages & Technologies](https://github.com/briennekordis/dataFaker#languages--technologies)
+- [Setup & Use](https://github.com/briennekordis/dataFaker#setup--use)
+- [Licensing Information](https://github.com/briennekordis/dataFaker#licensing-information)
 
 ## Description & General Info
 This project, which was derived from the [littletiers](https://github.com/kogsio/littletiers) repository, uses Express to GET and POST users from a mock database. 
