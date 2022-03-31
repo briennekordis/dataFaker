@@ -50,6 +50,6 @@ app.post('/add', function (req, res) {
 
 // start server
 // -----------------------
-app.listen(port, function () {
-    console.log(`Running on port ${port}`);
-});
+// app.listen(port, function () {
+//     console.log(`Running on port ${port}`);
+// });
